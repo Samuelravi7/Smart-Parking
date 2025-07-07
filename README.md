@@ -16,3 +16,5 @@ Once an object (car) is detected at the entrance by the ultrasonic sensor, it se
 
 Refer to this youtube video for guide to generate certificates, private key and public key : https://youtu.be/iQOKosuw9x4?si=SJg_owcDyqYZsIko
 A AWS account by Amazon is required but optional. The project still functions fine without AWS Service as long as the connections to esp32 and the pins are in order.
+
+![image](https://github.com/user-attachments/assets/d720069a-6122-41e7-bfaf-1fac3e4fd2d9)
